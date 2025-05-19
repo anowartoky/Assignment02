@@ -146,7 +146,7 @@
 
   /* footer section style start */
   footer{
-    padding: 0 20px;
+    padding: 0 20px 20px 20px;
   }
   .footer-content{
     flex-direction: column;
@@ -213,14 +213,11 @@
   /* calculate section end */
   /* footer section style start */
   footer{
-    padding: 0 20px;
+    padding: 0 20px 20px 20px;
   }
   .footer-content{
     flex-direction: column;
     gap: 70px;
-  }
-  .footer-copyright{
-    margin-bottom: 20px;
   }
   /* footer section style end */
 }
