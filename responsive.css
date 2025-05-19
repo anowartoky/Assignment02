@@ -164,6 +164,7 @@
   }
   .footer-copyright{
     font-size: 1rem;
+    margin-bottom: 20px;
   }
   /* footer section style end */
 }
@@ -217,6 +218,9 @@
   .footer-content{
     flex-direction: column;
     gap: 70px;
+  }
+  .footer-copyright{
+    margin-bottom: 20px;
   }
   /* footer section style end */
 }
